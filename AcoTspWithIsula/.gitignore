@@ -1,4 +1,10 @@
 /bin/
+
+#Teporary hiding previous code
+AntTemplate1.java
+*.txt
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
